@@ -1,0 +1,9 @@
+# ninja log v6
+7	1803	7930058008744453	IntrusionDetectionSystem_autogen/timestamp	8fdbb217db78c888
+7	1803	7930058008744453	IntrusionDetectionSystem_autogen/mocs_compilation.cpp	8fdbb217db78c888
+7	1803	7930058008744453	C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/IntrusionDetectionSystem_autogen/timestamp	8fdbb217db78c888
+7	1803	7930058008744453	C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/IntrusionDetectionSystem_autogen/mocs_compilation.cpp	8fdbb217db78c888
+1826	5633	7930058009983633	CMakeFiles/IntrusionDetectionSystem.dir/main.cpp.obj	8eb00cc82f890c63
+1819	5907	7930058009913610	CMakeFiles/IntrusionDetectionSystem.dir/IntrusionDetectionSystem_autogen/mocs_compilation.cpp.obj	97feb707cca1f370
+1832	6646	7930058010037260	CMakeFiles/IntrusionDetectionSystem.dir/mainwindow.cpp.obj	2500382bf8bc39f5
+6647	7268	7930058058196585	IntrusionDetectionSystem.exe	c8175f12aeea59f6

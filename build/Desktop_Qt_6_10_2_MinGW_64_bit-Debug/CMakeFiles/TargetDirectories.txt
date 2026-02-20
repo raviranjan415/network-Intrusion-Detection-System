@@ -1,0 +1,5 @@
+C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/IntrusionDetectionSystem.dir
+C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/IntrusionDetectionSystem_autogen_timestamp_deps.dir
+C:/Users/Ravi Ranjan/OneDrive/Desktop/dev/intrusion-detection-sys/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/IntrusionDetectionSystem_autogen.dir
